@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6d3b024-2bbc-4bfb-801f-dc3b8099c2d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAssignment02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BallonTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Balloon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EasterSunday.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileNameAndLocation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MilitaryTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PanctuationRemove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PunctuationAdded.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SeparationOfDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TransformNumber.java" afterDir="false" />
-    </list>
+    <list default="true" id="d6d3b024-2bbc-4bfb-801f-dc3b8099c2d4" name="Changes" comment="Assignment02 is solved" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="TransformNumber" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -75,6 +64,19 @@
       <option name="presentableId" value="Default" />
       <updated>1711019957806</updated>
     </task>
+    <task id="LOCAL-00001" summary="Assignment02 is solved">
+      <option name="closed" value="true" />
+      <created>1711021608074</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711021608074</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Assignment02 is solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment02 is solved" />
   </component>
 </project>

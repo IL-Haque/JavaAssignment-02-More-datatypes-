@@ -1,5 +1,5 @@
 public class BallonTester {
-    public static void main(String[] args) {
+    public static void main(String[] args){
         Balloon myBalloon = new Balloon();
         myBalloon.addAir(100);
         System.out.println("Volume of the balloon after adding 100 cm^3 of air: " + myBalloon.getVolume() + " cm^3");
